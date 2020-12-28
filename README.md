@@ -34,7 +34,7 @@ I am currently working with Web/Mobile Development, while I am also engaged with
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoreisdias&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leoreisdias&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leoreisdias&theme=midnight-purple&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 ![Profile views](https://gpvc.arturio.dev/leoreisdias)  
 
