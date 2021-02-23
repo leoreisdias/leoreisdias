@@ -8,7 +8,7 @@ I am pursuing a Computer Science degree, furthermore, I study other subjects, se
 I am currently working with Web/Mobile Development, while I am also engaged with Cyber Security and a bit of Game Development. Among these, Cyber Security is what most has my attention.
 
 - 🔭 I’m currently working on www.jornaljotamaria.com.br 
-- 🌱 I’m currently learning Next.js | PHP | Python 
+- 🌱 I’m currently learning Next.js | PHP | Nest.js 
 - ⚡ Fun fact: I am everywhere, you might see me in many kind of technologies. 
 <br />
 
