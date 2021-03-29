@@ -7,7 +7,7 @@ I am pursuing a Computer Science degree, furthermore, I study other subjects, se
 
 I am currently working with Web/Mobile Development, while I am also engaged with Cyber Security and a bit of Game Development. I'm styding to specialize in Omnistack Technologies such as React.js, Node.js, React Native and their respective frameworks like Next.js, Nest.js and so on. - All with TypeScript 🐱‍👤
 
-- 🔭 My First Deploy was the News Website: www.jornaljotamaria.com.br 
+- 🔭 My First Deploy: News Website www.jornaljotamaria.com.br 
 - 🌱 I’m currently learning React/Next.js | Node/Nest.js | React Native
 - ⚡ My LogBook: I have started to "register" what I learn in a LogBook, which you can access here -> <a href="https://www.notion.so/Development-7e867a3173424b5f8bb9d93f99659e39" target="_blank">LogBook Dev</a> 📚
 <br />
