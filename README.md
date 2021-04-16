@@ -16,7 +16,7 @@ I am currently working with Web/Mobile Development, while I am also engaged with
 
 <hr />
 
-<details align="center">
+<div align="center">
    <summary> <samp>&#9776; <b>Languages and Frameworks:</b></samp></summary>
    <p align="center">
      <br>
@@ -46,7 +46,7 @@ I am currently working with Web/Mobile Development, while I am also engaged with
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 </p>
-</details>
+</div>
 
 
 
