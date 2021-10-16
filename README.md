@@ -9,6 +9,7 @@ I am currently working with Web/Mobile Development, mostly in frontend, while I 
 
 - 🔭 My First Deploy: News Website www.jornaljm.com.br 
 - 🌱 I’m currently learning Next.js Optimizations | Microservices in Nestjs
+- 🔮 On my radar: Go and Flutter
 - 💡 My Tech Blog at Medium: Bringing tech subjects and articles such as tutorials (Working in progress) -> <a href="https://medium.com/@leonardord99" target="_blank">Medium Tech Blog</a>
 - ⚡ My LogBook: I have started to "register" what I learn in a LogBook, which you can access here -> <a href="https://www.notion.so/Development-7e867a3173424b5f8bb9d93f99659e39" target="_blank">LogBook Dev</a> 📚
 <br />
