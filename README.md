@@ -14,11 +14,13 @@ I am currently working with Web/Mobile Development, mostly in frontend, while I 
 - ⚡ My LogBook: I have started to "register" what I learn in a LogBook, which you can access here -> <a href="https://www.notion.so/Development-7e867a3173424b5f8bb9d93f99659e39" target="_blank">LogBook Dev</a> 📚
 <br />
 
-  <a href="https://www.instagram.com/leord_k/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:leonardord99@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardord99/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.jornaljm.com.br" target="_blank"><img src="https://img.shields.io/static/v1?label=My%20News%20Website&message=JJM&color=blue&style=for-the-badge&logo=appveyor" target="_blank"></a>
-    <a href="https://medium.com/@leonardord99" target="_blank"><img src="https://img.shields.io/static/v1?label=Tech%20Blog%20-%20Medium&message=TechBlog&color=purple&style=for-the-badge&logo=appveyor" target="_blank"></a>
+<a href="https://www.linkedin.com/in/leonardord99/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://medium.com/@leonardord99" target="_blank"><img src="https://img.shields.io/static/v1?label=Tech%20Blog%20-%20Medium&message=TechBlog&color=purple&style=for-the-badge&logo=appveyor" target="_blank"></a>
+<a href="https://www.jornaljm.com.br" target="_blank"><img src="https://img.shields.io/static/v1?label=My%20News%20Website&message=JJM&color=blue&style=for-the-badge&logo=appveyor" target="_blank"></a>
+<a href = "mailto:leonardord99@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/leord_k/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
+   
 
 <hr />
 
@@ -29,7 +31,7 @@ I am currently working with Web/Mobile Development, mostly in frontend, while I 
       <a href="https://github.com/leoreisdias?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
       <a href="https://github.com/leoreisdias?tab=repositories&language=typescript" target="_blank"><img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3572A5?style=flat-square&logo=Typescript&logoColor=white"></a>
       <a href="https://github.com/leoreisdias?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white"></a>
-     <a href="https://github.com/leoreisdias?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=Java&logoColor=white"></a>
+<!--      <a href="https://github.com/leoreisdias?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=Java&logoColor=white"></a> -->
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=leoreisdias&theme=midnight-purple&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats"><br />
      <a href="https://github.com/leoreisdias?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
