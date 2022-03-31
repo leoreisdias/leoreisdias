@@ -1,7 +1,7 @@
-### Hi there, I am Leo 👋
+## Hi there, I am Leo 👋
 
-#### Welcome to my profile
-![Welcome to my profile](https://i.imgur.com/x3uqqMY.png)
+### Welcome to my profile
+![Welcome to my profile](https://i.imgur.com/L2SoJPh.png)
 
 I am a Computer Science graduate and love seeking for new technologies to learn and improve ones that I already know.
 
@@ -36,7 +36,7 @@ I am currently working with Web/Mobile Development, mostly in frontend, while I 
 <hr />
 
 <div align="center">
-   <summary> <samp>&#9776; <b>Languages and Frameworks:</b></samp></summary>
+   <samp>&#9776; <b>Languages and Frameworks:</b></samp>
    <p align="center">
      <br>
       <a href="https://github.com/leoreisdias?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
@@ -71,12 +71,9 @@ I am currently working with Web/Mobile Development, mostly in frontend, while I 
 
 <hr />
 
-![GitHub metrics](https://metrics.lecoq.io/leoreisdias)  
-
 ![Profile views](https://gpvc.arturio.dev/leoreisdias)  
 
-
- ![Snake animation](https://github.com/LuzianeFreitas/LuzianeFreitas/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuzianeFreitas/LuzianeFreitas/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
