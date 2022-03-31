@@ -7,12 +7,23 @@ I am a Computer Science graduate and love seeking for new technologies to learn 
 
 I am currently working with Web/Mobile Development, mostly in frontend, while I am also engaged with Cyber Security and a bit of Game Development. I'm styding to specialize in Typescript Technologies such as React.js, Node.js, React Native and their respective frameworks like Next.js 💜, Nest.js and so on. 🐱‍👤
 
-- 🔭 My First Deploy: News Website www.jornaljm.com.br 
-- 🌱 I’m currently learning React Optimizations | Micro Frontends | Unit Testing React 💜
-- 🔮 On my radar: Flutter and Go.
-- 💡 My Tech Blog at Medium: Bringing tech subjects and articles such as tutorials (Working in progress) -> <a href="https://medium.com/@leonardord99" target="_blank">Medium Tech Blog</a>
-- ⚡ My LogBook: I have started to "register" what I learn in a LogBook, which you can access here -> <a href="https://www.notion.so/Development-7e867a3173424b5f8bb9d93f99659e39" target="_blank">LogBook Dev</a> 📚
-<br />
+```js
+ const aboutMe = {
+   🔭 MyFirstDeploy: "News Website www.jornaljm.com.br",
+   🌱 FocusingOn: "I’m currently learning React Optimizations | Micro Frontends | Unit Testing React 💜",
+   
+   💡Links: {
+       Medium: "https://medium.com/@leonardord99",
+       LinkedIn: "https://www.linkedin.com/in/leonardord99",
+       StackOverflow: "https://stackoverflow.com/users/18632233/leonardo-r-dias"
+     },
+   
+   ⚡My LogBook: {
+      description: "I have started to register what I learn in a LogBook",
+      link: "https://www.notion.so/Development-7e867a3173424b5f8bb9d93f99659e39"
+     }
+ }
+ ```
 
 <a href="https://www.linkedin.com/in/leonardord99/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://medium.com/@leonardord99" target="_blank"><img src="https://img.shields.io/static/v1?label=Tech%20Blog%20-%20Medium&message=TechBlog&color=purple&style=for-the-badge&logo=appveyor" target="_blank"></a>
