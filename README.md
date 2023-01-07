@@ -35,7 +35,7 @@ I am currently working with Web/Mobile Development, mostly in frontend, while I 
        },
        
        "react-currency-control": {
-         description: "Input Wrapper focused on applying currency masks in any Input (native or design system inputs) 
+         description: "Input Wrapper focused on applying currency masks in any Input (native or design system inputs)",
          highlight: "Support BRL graciously",
          link: "https://www.npmjs.com/package/react-currency-control"
        }
