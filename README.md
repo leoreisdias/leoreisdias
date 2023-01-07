@@ -20,7 +20,7 @@ I am currently working with Web/Mobile Development, mostly in frontend, while I 
    
    ⚡My LogBook: {
       description: "I have started to register what I learn in a LogBook",
-      link: "https://www.notion.so/Development-7e867a3173424b5f8bb9d93f99659e39"
+      link: "https://www.notion.so/leord/00f5c6366a5e4256ac278b66788ba3ef"
      }
  }
  ```
