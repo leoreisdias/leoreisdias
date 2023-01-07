@@ -26,17 +26,17 @@ I am currently working with Web/Mobile Development, mostly in frontend, while I 
    📦My NPM Packages: {
        "excel-ent": {
          description: Export data in CSV/XLS,
-         link: https://www.npmjs.com/package/excel-ent,
+         link: "https://www.npmjs.com/package/excel-ent",
        },
        
        "debounce-my-function": {
          description: debounce your functions delaying it,
-         link: https://www.npmjs.com/package/debounce-my-function,
+         link: "https://www.npmjs.com/package/debounce-my-function",
        },
        
        "react-currency-control": {
          description: Input focused on applying currency masks - Support BRL graciously,
-         link: https://www.npmjs.com/package/react-currency-control
+         link: "https://www.npmjs.com/package/react-currency-control"
        }
     }
  }
