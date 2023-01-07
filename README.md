@@ -21,7 +21,24 @@ I am currently working with Web/Mobile Development, mostly in frontend, while I 
    ⚡My LogBook: {
       description: "I have started to register what I learn in a LogBook",
       link: "https://www.notion.so/leord/00f5c6366a5e4256ac278b66788ba3ef"
-     }
+     },
+     
+   📦My NPM Packages: {
+       excel-ent: {
+         description: Export data in CSV/XLS,
+         link: https://www.npmjs.com/package/excel-ent,
+       },
+       
+       debounce-my-function: {
+         description: debounce your functions delaying it,
+         link: https://www.npmjs.com/package/debounce-my-function,
+       },
+       
+       react-currency-control: {
+         description: Input focused on applying currency masks - Support BRL graciously,
+         link: https://www.npmjs.com/package/react-currency-control
+       }
+    }
  }
  ```
 
