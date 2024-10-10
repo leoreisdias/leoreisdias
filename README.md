@@ -41,8 +41,8 @@ I'm styding to specialize in Frontend development with Typescript Technologies s
 <a href="https://www.linkedin.com/in/leonardord99/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://medium.com/@leonardord99" target="_blank"><img src="https://img.shields.io/static/v1?label=Tech%20Blog%20-%20Medium&message=TechBlog&color=purple&style=for-the-badge&logo=appveyor" target="_blank"></a>
 <a href="https://www.jornaljm.com.br" target="_blank"><img src="https://img.shields.io/static/v1?label=My%20News%20Website&message=JJM&color=blue&style=for-the-badge&logo=appveyor" target="_blank"></a>
-<a href = "mailto:leonardord99@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/leord_k/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:leonardord99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/kumo.leo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
    
 
