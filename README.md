@@ -12,7 +12,6 @@ I'm styding to specialize in Frontend development with Typescript Technologies s
 ```js
  const aboutMe = {
    🔭 MyFirstDeploy: "News Website www.jornaljm.com.br",
-   🌱 FocusingOn: "I’m currently learning React Optimizations | Micro Frontends | Unit Testing React 💜",
    
    💡Links: {
        Medium: "https://medium.com/@leonardord99",
@@ -30,16 +29,10 @@ I'm styding to specialize in Frontend development with Typescript Technologies s
          description: "Export data in CSV/XLS",
          link: "https://www.npmjs.com/package/excel-ent",
        },
-       
-       "debounce-my-function": {
-         description: "debounce your functions delaying it",
-         link: "https://www.npmjs.com/package/debounce-my-function",
-       },
-       
-       "react-currency-control": {
+       "react-currency-mask": {
          description: "Input Wrapper focused on applying currency masks in any Input (native or design system inputs)",
          highlight: "Support BRL graciously",
-         link: "https://www.npmjs.com/package/react-currency-control"
+         link: "https://www.npmjs.com/package/react-currency-mask"
        }
     }
  }
