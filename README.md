@@ -3,11 +3,7 @@
 ### Welcome to my profile
 ![Welcome to my profile](https://i.imgur.com/L2SoJPh.png)
 
-I am a Computer Science graduate and love seeking for new technologies to learn and improve ones that I already know.
-
-I am currently working with Web Development, mostly in frontend with React/Next.js. <br />
-I'm styding to specialize in Frontend development with Typescript Technologies such as React.js/Next.js 💜. <br />
-(However, I also have Backend experiences, which I've been evolving indirectly. 👀) 🐱‍👤<br />
+Senior Software Engineer with 4+ years of experience in frontend and backend development, specializing in React.js, Next.js 💜, Node.js, and Nest.js. 🐱‍👤
 
 ```js
  const aboutMe = {
