@@ -29,6 +29,11 @@ Senior Software Engineer with 4+ years of experience in frontend and backend dev
          description: "Input Wrapper focused on applying currency masks in any Input (native or design system inputs)",
          highlight: "Support BRL graciously",
          link: "https://www.npmjs.com/package/react-currency-mask"
+       },
+       "yggdrasil-worktree": {
+         description: "Yggdrasil lets you grow isolated, parallel environments where ideas can evolve independently without colliding.",
+         highlight: "Worktree Management",
+         link: "https://www.npmjs.com/package/yggtree"
        }
     }
  }
