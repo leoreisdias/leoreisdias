@@ -30,8 +30,8 @@ const leo = {
 ## 🧠 What I’ve been doing lately
 
 * Structuring things before coding
-* Working with AI beyond prompts (flows, orchestration, usage patterns)
-* Thinking more about how things feel to use, not just how they work
+* Working with AI (flows, orchestration, usage patterns)
+* Thinking more about how things feel to use — treating DX as seriously as UX
 * Building tools that help me (and others) move faster
 
 ---
