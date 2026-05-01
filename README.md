@@ -1,6 +1,6 @@
 ## Hi, I’m Leo 👋
 
-Senior Software Engineer focused on frontend and product-facing systems, working closely with design and product, and building AI-assisted workflows (human-in-the-loop, structured agent setups, feedback loops).
+Senior Software Engineer focused on frontend and product-facing systems, working closely with design and product, and building AI-assisted workflows (human-in-the-loop, tools, feedback loops, spec-driven development).
 
 ---
 
