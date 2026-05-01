@@ -1,99 +1,115 @@
-## Hi there, I am Leo 👋
+## Hi, I’m Leo 👋
 
-### Welcome to my profile
-![Welcome to my profile](https://i.imgur.com/L2SoJPh.png)
+Senior Software Engineer focused on frontend and product-facing systems, working closely with design and product, and building AI-assisted workflows (human-in-the-loop, structured agent setups, feedback loops).
 
-Senior Software Engineer with 4+ years of experience in frontend and backend development, specializing in React.js, Next.js 💜, Node.js, and Nest.js. 🐱‍👤
+---
 
-```js
- const aboutMe = {
-   🔭 MyFirstDeploy: "News Website www.jornaljm.com.br",
-   
-   💡Links: {
-       Medium: "https://medium.com/@leonardord99",
-       LinkedIn: "https://www.linkedin.com/in/leonardord99",
-       StackOverflow: "https://stackoverflow.com/users/18632233/leonardo-r-dias"
-     },
-   
-   ⚡My LogBook: {
-      description: "I have started to register what I learn in a LogBook",
-      link: "https://www.notion.so/leord/00f5c6366a5e4256ac278b66788ba3ef"
-     },
-     
-   📦My NPM Packages: {
-       "excel-ent": {
-         description: "Export data in CSV/XLS",
-         link: "https://www.npmjs.com/package/excel-ent",
-       },
-       "react-currency-mask": {
-         description: "Input Wrapper focused on applying currency masks in any Input (native or design system inputs)",
-         highlight: "Support BRL graciously",
-         link: "https://www.npmjs.com/package/react-currency-mask"
-       },
-       "yggdrasil-worktree": {
-         description: "Yggdrasil lets you grow isolated, parallel environments where ideas can evolve independently without colliding.",
-         highlight: "Worktree Management",
-         link: "https://www.npmjs.com/package/yggtree"
-       }
-    }
- }
- ```
+```ts
+const leo = {
+  role: "Software Engineer → Frontend / AI Engineer",
 
-<a href="https://www.linkedin.com/in/leonardord99/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://medium.com/@leonardord99" target="_blank"><img src="https://img.shields.io/static/v1?label=Tech%20Blog%20-%20Medium&message=TechBlog&color=purple&style=for-the-badge&logo=appveyor" target="_blank"></a>
-<a href="https://www.jornaljm.com.br" target="_blank"><img src="https://img.shields.io/static/v1?label=My%20News%20Website&message=JJM&color=blue&style=for-the-badge&logo=appveyor" target="_blank"></a>
-<a href = "mailto:leonardord99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/kumo.leo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
-   
+  currentFocus: [
+    "AI-assisted dev workflows",
+    "Human-in-the-loop systems",
+    "Internal tooling & DX",
+    "Frontend as product surface"
+  ],
 
-<hr />
+  howIWork: [
+    "Spec → RFC (optional) → Implementation",
+    "Clarity over cleverness",
+    "Systems > isolated features",
+    "Clarity, maintainability, performance and strategy are trade-offs, not afterthoughts",
+    "Ship, learn, refine"
+  ]
+};
+```
 
-<div align="center">
-   <samp>&#9776; <b>Languages and Frameworks:</b></samp>
-   <p align="center">
-     <br>
-      <a href="https://github.com/leoreisdias?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
-      <a href="https://github.com/leoreisdias?tab=repositories&language=typescript" target="_blank"><img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3572A5?style=flat-square&logo=Typescript&logoColor=white"></a>
-      <a href="https://github.com/leoreisdias?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white"></a>
-<!--      <a href="https://github.com/leoreisdias?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=Java&logoColor=white"></a> -->
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=leoreisdias&theme=midnight-purple&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats"><br />
-     <a href="https://github.com/leoreisdias?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-     <a href="https://github.com/leoreisdias/leoreisdias" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/leoreisdias/leoreisdias?label=profile%20updated&style=flat-square"></a>
-  </samp>
-  </p>
-  <p align="center">
-   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-   <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-</p>
-</div>
+---
 
+## 🧠 What I’ve been doing lately
 
+* Structuring things before coding
+* Working with AI beyond prompts (flows, orchestration, usage patterns)
+* Thinking more about how things feel to use, not just how they work
+* Building tools that help me (and others) move faster
 
-<hr />
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoreisdias&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+## 🧪 LogBook for Devs
 
-<hr />
+A system I use to register, organize and refine what I learn over time.
+Not a blog — more like a thinking system. Check out the Notion and Newsletter (Substack) below.
 
-<!--
-**leoreisdias/leoreisdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)](logbookfordevs.com)
+[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=flat&logo=substack&logoColor=FF6719)](https://logbookfordevs.substack.com/) 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Projects & Experiments
+
+Most of what I’m building lives here:
+
+👉 [LogBook for Devs GitHub Organization](https://github.com/logbookfordevs)
+
+I prefer keeping things evolving in one place instead of maintaining a static list here.
+
+---
+
+## 🧩 Some highlights
+
+A few things I’ve built along the way:
+
+- **[yggdrasil-worktree](https://github.com/logbookfordevs/yggdrasil-worktree)** — Git worktree orchestration CLI  
+- **[react-currency-mask](https://github.com/logbookfordevs/react-currency-mask)** — currency input handling with strong BRL support  
+- **[ai-skills-companion](https://github.com/logbookfordevs/ai-skills-companion)** — GUI for managing and running developer skills  
+- **[ai-field-kit](https://github.com/logbookfordevs/ai-field-kit)** — tooling and setup for real-world AI-assisted development workflows
+
+---
+
+## 🤖 AI tooling (what I use)
+
+* Codex
+* Claude
+* OpenCode
+* Custom workflows around AI-assisted development
+* AI orchestration (multi-step workflows, tools, feedback loops)
+
+---
+
+## 🎨 Things I care about in interfaces
+
+- Motion and animation as communication — it's the small things
+- Interfaces as guided experiences (influenced by games, anime and cinematics)  
+- Micro-interactions that add clarity and a bit of joy  
+
+---
+
+## 🌐 Around the internet
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardord99)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white)](https://x.com/leo_kumo)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@leonardord99)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/logbookfordevs/)
+
+---
+
+## ⚙️ Stack
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black.svg?style=flat&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=flat&logo=node.js&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+![Tanstack Start](https://img.shields.io/badge/TanStack-000000.svg?style=flat&logo=TanStack&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=macos&logoColor=F0F0F0)
+
+---
+
+## 📜
+
+Still figuring things out, one commit at a time.
