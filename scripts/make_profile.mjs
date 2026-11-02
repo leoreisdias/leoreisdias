@@ -588,38 +588,47 @@ function buildYggdrasilTile() {
   });
 }
 
-function buildCurrencyTile() {
-  const steps = ['R$ 0,01', 'R$ 0,12', 'R$ 1,23', 'R$ 12,34', 'R$ 123,45', 'R$ 1.234,56'];
-  const stepTime = 0.7;
-  const hold = 2.4;
-  const total = steps.length * stepTime + hold;
-  let css = '.co{animation:co 1.4s steps(4) infinite}@keyframes co{50%{transform:translateY(-8px)}}';
-  let values = '';
+function buildWaypointTile() {
+  const total = 8;
+  const moment = (id, on, off, base) =>
+    `@keyframes ${id}{0%,${pct(on, total)}{opacity:0}${pct(on + 0.01, total)},${pct(off, total)}{opacity:1}${pct(off + 0.01, total)},100%{opacity:0}}.${id}{opacity:${base};animation:${id} ${total}s steps(1) infinite}`;
 
-  steps.forEach((value, index) => {
-    const start = index * stepTime;
-    const end = index === steps.length - 1 ? total : start + stepTime;
-    css += `@keyframes v${index}{0%,${pct(start, total)}{opacity:0}${pct(start + 0.001, total)},${pct(end - 0.001, total)}{opacity:1}${pct(end, total)},100%{opacity:0}}.v${index}{opacity:${index === steps.length - 1 ? 1 : 0};animation:v${index} ${total}s steps(1) infinite}`;
-    values += `<text class="vt v${index}" x="224" y="84" font-size="38" fill="${INK}" text-anchor="end">${value}</text>`;
-  });
+  const css =
+    `@keyframes cur{0%,4%{transform:translate(140px,108px)}15%,${pct(total - 0.5, total)}{transform:translate(82px,76px)}100%{transform:translate(140px,108px)}}.cur{transform:translate(82px,76px);animation:cur ${total}s steps(6) infinite}` +
+    moment('pin', 1.3, total - 0.5, 1) +
+    moment('bub', 1.5, 3.2, 0) +
+    moment('row', 2.2, total - 0.5, 1) +
+    moment('qo', 2.2, 3.4, 0) +
+    moment('qc', 3.4, 4.8, 0) +
+    moment('qr', 4.8, total - 0.5, 1) +
+    moment('new', 4.8, total - 0.5, 1);
 
-  const coin = (x, y, delay) =>
-    `<g class="co" style="animation-delay:-${delay}s"><path fill="${GOLD}" d="M${x + 4} ${y}h12v4h4v12h-4v4h-12v-4h-4v-12h4z"/><path fill="#d9962c" d="M${x + 8} ${y + 4}h4v12h-4z"/></g>`;
+  const cursor = pixels(['#....', '##...', '#.#..', '#..#.', '#.##.', '.#...'], { '#': INK }, 0, 0, 3);
+  const pin = pixels(['.RRRR.', 'RRWWRR', 'RRWWRR', '.RRRR.', '..RR..'], { R: '#e0403f', W: '#fff' }, 84, 52, 3);
 
   tile({
-    name: 'tile-currency.svg',
+    name: 'tile-waypoint.svg',
     width: 282,
     height: 240,
-    label: 'react-currency-mask: currency input handling with strong BRL support. A value being typed into a masked input.',
-    title: 'CURRENCY-MASK',
+    label: 'Logbook Waypoint: pin the point, chart the change. A cursor pins feedback on an interface, the note moves through a local queue, and a coding agent resolves it.',
+    title: 'LOGBOOK WAYPOINT',
     titleSize: 13,
-    description: ['React currency inputs with', 'strong BRL support.'],
+    description: ['Pin the point. Chart the', 'change. Agents resolve it.'],
     accent: GOLD,
-    background: '#123e2f',
+    background: '#8a3d24',
     css,
     art: (w, h) =>
-      `<rect width="${w}" height="${h}" fill="#123e2f"/>${coin(30, 14, 0)}${coin(120, 10, 0.4)}${coin(216, 16, 0.8)}` +
-      `<rect x="24" y="52" width="226" height="44" fill="${PAPER}"/><path fill="none" stroke="${GOLD}" stroke-width="4" d="M24 52h226v44H24z"/>${values}<rect class="bl" x="232" y="60" width="4" height="28" fill="${INK}"/>`,
+      `<rect width="${w}" height="${h}" fill="#8a3d24"/>` +
+      `<rect x="12" y="12" width="158" height="116" fill="${PAPER}"/><rect x="12" y="12" width="158" height="12" fill="#2a2466"/>` +
+      `<path fill="${PINK}" d="M18 16h4v4h-4z"/><path fill="${GOLD}" d="M26 16h4v4h-4z"/><path fill="${MINT}" d="M34 16h4v4h-4z"/>` +
+      `<path fill="#a99fc9" d="M24 34h96v6H24zM24 46h120v6H24zM24 104h110v6H24z"/>` +
+      `<rect x="24" y="66" width="74" height="24" fill="#a99fc9"/><rect class="new" x="24" y="66" width="74" height="24" fill="${GOLD}"/>` +
+      `<g class="pin">${pin}</g>` +
+      `<g class="bub"><rect x="80" y="92" width="88" height="24" fill="${INK}"/><text class="vt" x="124" y="110" font-size="18" fill="${PAPER}" text-anchor="middle">make it pop</text></g>` +
+      `<g class="cur">${cursor}</g>` +
+      `<rect x="178" y="12" width="84" height="116" fill="${INK}"/><text class="vt" x="220" y="33" font-size="19" fill="${GOLD}" text-anchor="middle">QUEUE</text>` +
+      `<g class="row"><rect x="184" y="44" width="72" height="44" fill="#2a2466"/><text class="vt" x="192" y="62" font-size="18" fill="${PAPER}">#1</text>` +
+      `<text class="vt qo" x="192" y="80" font-size="18" fill="${PINK}">open</text><text class="vt qc" x="192" y="80" font-size="18" fill="${GOLD}">claimed</text><text class="vt qr" x="192" y="80" font-size="18" fill="${MINT}">resolved</text></g>`,
   });
 }
 
@@ -863,7 +872,7 @@ function buildFooter() {
 buildHero();
 buildLogbookTile();
 buildYggdrasilTile();
-buildCurrencyTile();
+buildWaypointTile();
 buildAtlasTile();
 buildFieldKitTile();
 buildInventory();
