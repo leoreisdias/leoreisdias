@@ -1,8 +1,14 @@
-## Hi, I’m Leo 👋
+<p align="center"><img src="assets/profile/hero.svg" width="100%" alt="A pixel-art RPG opening starring Leo Reis, Senior Software Engineer from Brazil. Leo walks through a dawn landscape past a blossoming world tree, with Kumo the cloud floating alongside, stomping bugs and saving waypoints. The dialog box introduces Leo: building frontends and product-facing systems, working on AI-assisted workflows, and treating DX as seriously as UX."></p>
 
-Senior Software Engineer focused on frontend and product-facing systems, working closely with design and product, and building AI-assisted workflows (human-in-the-loop, tools, feedback loops, spec-driven development).
+<p align="center"><a href="https://logbookfordevs.com">logbookfordevs.com</a> &nbsp;·&nbsp; <a href="https://logbookfordevs.substack.com/">Substack</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/leonardord99">LinkedIn</a> &nbsp;·&nbsp; <a href="https://x.com/leo_kumo">@leo_kumo</a> &nbsp;·&nbsp; <a href="https://medium.com/@leonardord99">Medium</a> &nbsp;·&nbsp; <a href="https://www.instagram.com/logbookfordevs/">Instagram</a></p>
 
----
+## 🗺️ Quest log
+
+<p align="center"><a href="https://logbookfordevs.com"><img src="assets/profile/tile-logbook.svg" width="423" alt="LogBook for Devs: a system to register, organize and refine what I learn. More thinking system than blog."></a><a href="https://github.com/logbookfordevs/yggdrasil-worktree"><img src="assets/profile/tile-yggdrasil.svg" width="423" alt="yggdrasil-worktree: Git worktree orchestration CLI."></a><a href="https://github.com/logbookfordevs/react-currency-mask"><img src="assets/profile/tile-currency.svg" width="282" alt="react-currency-mask: React currency inputs with strong BRL support."></a><a href="https://github.com/logbookfordevs/atlas-skills"><img src="assets/profile/tile-atlas.svg" width="282" alt="Logbook Atlas: my stack of skills, rules, hooks and agents for AI workflows."></a><a href="https://github.com/logbookfordevs/ai-field-kit"><img src="assets/profile/tile-fieldkit.svg" width="282" alt="ai-field-kit: tooling and setup for real-world AI-assisted development workflows."></a></p>
+
+Most of what I'm building lives in the **[LogBook for Devs organization](https://github.com/logbookfordevs)**. I'd rather keep things evolving in one place than maintain a static list here.
+
+## 🧙 Character sheet
 
 ```ts
 const leo = {
@@ -25,91 +31,14 @@ const leo = {
 };
 ```
 
----
+**Lately I've been** structuring things before coding, working with AI (flows, orchestration, usage patterns), thinking about how things feel to use, and building tools that help me (and others) move faster.
 
-## 🧠 What I’ve been doing lately
+**In interfaces, I care about** motion as communication, experiences that guide you the way games, anime and cinematics do, and micro-interactions that add clarity and a bit of joy.
 
-* Structuring things before coding
-* Working with AI (flows, orchestration, usage patterns)
-* Thinking more about how things feel to use — treating DX as seriously as UX
-* Building tools that help me (and others) move faster
+**My AI party:** Codex, Claude and OpenCode, plus custom workflows and orchestration (multi-step flows, tools, feedback loops).
 
----
+## 🎒 Inventory
 
-## 🧪 LogBook for Devs
+<p align="center"><img src="assets/profile/inventory.svg" width="100%" alt="My stack as an RPG inventory: React, Next.js, TanStack Start, Vite, TypeScript, Node.js, Postgres, MongoDB, Docker, Linux and macOS."></p>
 
-A system I use to register, organize and refine what I learn over time.
-Not a blog — more like a thinking system. Check out the Notion and Newsletter (Substack) below.
-
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)](logbookfordevs.com)
-[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=flat&logo=substack&logoColor=FF6719)](https://logbookfordevs.substack.com/) 
-
----
-
-## 🧩 Projects & Experiments
-
-Most of what I’m building lives here:
-
-👉 [LogBook for Devs GitHub Organization](https://github.com/logbookfordevs)
-
-I prefer keeping things evolving in one place instead of maintaining a static list here.
-
----
-
-## 🧩 Some highlights
-
-A few things I’ve built along the way:
-
-- **[yggdrasil-worktree](https://github.com/logbookfordevs/yggdrasil-worktree)** — Git worktree orchestration CLI  
-- **[react-currency-mask](https://github.com/logbookfordevs/react-currency-mask)** — currency input handling with strong BRL support  
-- **[ai-skills-companion](https://github.com/logbookfordevs/ai-skills-companion)** — GUI for managing and running developer skills  
-- **[ai-field-kit](https://github.com/logbookfordevs/ai-field-kit)** — tooling and setup for real-world AI-assisted development workflows
-
----
-
-## 🤖 AI tooling (what I use)
-
-* Codex
-* Claude
-* OpenCode
-* Custom workflows around AI-assisted development
-* AI orchestration (multi-step workflows, tools, feedback loops)
-
----
-
-## 🎨 Things I care about in interfaces
-
-- Motion and animation as communication — it's the small things
-- Interfaces as guided experiences (influenced by games, anime and cinematics)  
-- Micro-interactions that add clarity and a bit of joy  
-
----
-
-## 🌐 Around the internet
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardord99)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white)](https://x.com/leo_kumo)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@leonardord99)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/logbookfordevs/)
-
----
-
-## ⚙️ Stack
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black.svg?style=flat&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=flat&logo=node.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
-![Tanstack Start](https://img.shields.io/badge/TanStack-000000.svg?style=flat&logo=TanStack&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=macos&logoColor=F0F0F0)
-
----
-
-## 📜
-
-Still figuring things out, one commit at a time.
+<p align="center"><img src="assets/profile/footer.svg" width="100%" alt="Leo and Kumo the cloud resting at a campfire save point. Still figuring things out, one commit at a time."></p>

@@ -1,0 +1,13 @@
+{
+  "name": "profile-assets",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node make_profile.mjs"
+  },
+  "devDependencies": {
+    "@fontsource/press-start-2p": "^5.3.0",
+    "@fontsource/vt323": "^5.3.0",
+    "simple-icons": "^16.36.0"
+  }
+}
